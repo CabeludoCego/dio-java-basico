@@ -1,0 +1,57 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch ClasseQuatro",
+			"request": "launch",
+			"mainClass": "ClasseQuatro",
+			"projectName": "tipos-var_67b19f13",
+			"args": ["Chico Bento", "18"]
+		},
+		{
+			"type": "java",
+			"name": "Launch Operadores",
+			"request": "launch",
+			"mainClass": "Operadores",
+			"projectName": "tipos-var_67b19f13"
+		},
+		{
+			"type": "java",
+			"name": "Launch Operadores2",
+			"request": "launch",
+			"mainClass": "Operadores2",
+			"projectName": "tipos-var_67b19f13"
+		},
+		{
+			"type": "java",
+			"name": "Launch TiposVar",
+			"request": "launch",
+			"mainClass": "TiposVar",
+			"projectName": "tipos-var_67b19f13"
+		},
+		{
+			"type": "java",
+			"name": "Launch Usuario",
+			"request": "launch",
+			"mainClass": "Usuario",
+			"projectName": "tipos-var_67b19f13"
+		},
+		{
+			"type": "java",
+			"name": "Launch smartTv",
+			"request": "launch",
+			"mainClass": "smartTv",
+			"projectName": "tipos-var_67b19f13"
+		}
+	]
+}
