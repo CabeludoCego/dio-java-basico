@@ -35,6 +35,11 @@ public class Operadores2 {
 	System.out.println("F + V :" + (b3 ^ b2));
 	System.out.println("F + F :" + (b3 ^ b4));
 
+	float f1 = 4.5f;
+	char c1 = 'x';
+	int i1 = 5;
+	System.out.println(c1 > i1);
+
 
 	}
 }
